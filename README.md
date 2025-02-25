@@ -158,35 +158,35 @@ Dates;	    NumberOfDayInWeek;	WeekdayName;	NumberOfWeekFromStandartSQLfunction	;
 2019-01-07	1	                  Monday	         2	                               159
 2019-01-08	2	                  Tuesday	         2	                               159
 ***
-2020-12-29	2	                  Tuesday	        53	           262
-2020-12-30	3	                  Wednesday	        53	     262
-2020-12-31	4	                  Thursday	        53	          262
-2021-01-01	5	                  Friday	         1	            262
-2021-01-02	6	                  Saturday	         1	          262
-2021-01-03	7	                  Sunday	         1	              262
-2021-01-04	1	                  Monday	         2	              263
-2021-01-05	2	                  Tuesday	         2	           263
-2021-01-06	3	                  Wednesday	         2	           263
-2021-01-07	4	                  Thursday	         2	           263
+2020-12-29	2	                  Tuesday	        53	                               262
+2020-12-30	3	                  Wednesday	        53	                               262
+2020-12-31	4	                  Thursday	        53	                               262
+2021-01-01	5	                  Friday	         1	                               262
+2021-01-02	6	                  Saturday	         1	                               262
+2021-01-03	7	                  Sunday	         1	                               262
+2021-01-04	1	                  Monday	         2	                               263
+2021-01-05	2	                  Tuesday	         2	                               263
+2021-01-06	3	                  Wednesday	         2	                               263
+2021-01-07	4	                  Thursday	         2	                               263
 ***
-2024-12-29	7	                  Sunday	        52	              470
-2024-12-30	1	                  Monday	        53	           471
-2024-12-31	2	                  Tuesday	        53	             471
-2025-01-01	3	                  Wednesday	         1	            471
-2025-01-02	4	                  Thursday	               1	              471
-2025-01-03	5	                  Friday	                      1	                471
-2025-01-04	6	                  Saturday	                   1	              471
-2025-01-05	7	                  Sunday	                    1	                  471
-2025-01-06	1	                  Monday	                   2	                    472
-2025-01-07	2	                  Tuesday	                       2	                       472
+2024-12-29	7	                  Sunday	        52	                               470
+2024-12-30	1	                  Monday	        53	                               471
+2024-12-31	2	                  Tuesday	        53	                               471
+2025-01-01	3	                  Wednesday	         1	                               471
+2025-01-02	4	                  Thursday	         1	                               471
+2025-01-03	5	                  Friday	         1	                               471
+2025-01-04	6	                  Saturday	         1	                               471
+2025-01-05	7	                  Sunday	         1	                               471
+2025-01-06	1	                  Monday	         2	                               472
+2025-01-07	2	                  Tuesday	         2	                               472
 ***
-2027-12-28	2	                  Tuesday	                     53	               627
-2027-12-29	3	                  Wednesday	               53	             627
-2027-12-30	4	                  Thursday	                  53	              627
-2027-12-31	5	                  Friday	                    53	               627
-2028-01-01	6	                  Saturday	                        1	                627
-2028-01-02	7	                  Sunday                       	1	                      627
-2028-01-03	1	                  Monday	                     2	             628
-2028-01-04	2	                  Tuesday                 	2	                       628
+2027-12-28	2	                  Tuesday	        53	                               627
+2027-12-29	3	                  Wednesday	        53	                               627
+2027-12-30	4	                  Thursday	        53	                               627
+2027-12-31	5	                  Friday	        53	                               627
+2028-01-01	6	                  Saturday	         1	                               627
+2028-01-02	7	                  Sunday                 1	                               627
+2028-01-03	1	                  Monday	         2	                               628
+2028-01-04	2	                  Tuesday                2	                               628
 ***
 

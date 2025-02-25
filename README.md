@@ -26,7 +26,7 @@ SELECT
   ,t.Wnum
   ,YEAR(dt) AS Yr
   ,CASE WHEN t.WDay=1 AND t.Wnum=1 THEN 1 ELSE 0 END AS lab
-FROM [ReportPR].[GeneratingDates] (@StartDate,@endDate) t
+FROM dbo.GeneratingDates (@StartDate,@endDate) t
 ),
 DetermineLabel
 AS

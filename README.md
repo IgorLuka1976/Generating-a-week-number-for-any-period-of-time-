@@ -119,17 +119,17 @@ FROM #FirstStepOfResult t
 The Result below:
 Dates;	    NumberOfDayInWeek;	WeekdayName;	NumberOfWeekFromStandartSQLfunction	;NumberOfWeek_During_OverYear
 2016-12-23	5	                  Friday	        52	                                52
-2016-12-24	6	                  Saturday	      52	                                52
+2016-12-24	6	                  Saturday	        52	                                52
 ***
 2016-12-30	5	                  Friday	        53	                                53
-2016-12-31	6	                  Saturday	      53	                                53
-2017-01-01	7                 	Sunday	         1	                                53
+2016-12-31	6	                  Saturday	        53	                                53
+2017-01-01	7                 	  Sunday	         1	                                53
 2017-01-02	1	                  Monday	         2	                                54
 2017-01-03	2	                  Tuesday	         2	54
-2017-01-04	3	                  Wednesday	       2	54
-2017-01-05	4	                  Thursday	       2	54
+2017-01-04	3	                  Wednesday	         2	54
+2017-01-05	4	                  Thursday	         2	54
 2017-01-06	5	                  Friday	         2	54
-2017-01-07	6	                  Saturday	       2	54
+2017-01-07	6	                  Saturday	         2	54
 2017-01-08	7	                  Sunday	         2	54
 2017-01-09	1	                  Monday	3	55
 2017-01-10	2	                  Tuesday	3	55

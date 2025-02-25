@@ -8,6 +8,7 @@ DATEPART(weekday, [Your date...]) AS WeekDays,
 DATENAME(weekday, [Your date...]) AS WeekDaysName
 
   But if we need to get a sequence of week numbers over a year or between two years, there is a problem, because the last month of year has number=53, and the first month of next year has number=1. So it's got only one sequence from 1 to 53 by standart functions DATEPART, DATENAME. Then it is used script below to generate necessary sequence(It's used Function-date-generation dbo.GeneratingDates from previous repository). 
+  
   But Attention! This work if @StartDate='20160101' ! I tested with this date
 
 SET LANGUAGE ENGLISH
